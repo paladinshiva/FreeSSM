@@ -18,7 +18,7 @@ owners.
 
 0. TABLE OF CONTENTS:
 
-   1. Licence
+   1. License
    2. Supported Platforms
    3. Requirements
    4. Compilation
@@ -27,14 +27,14 @@ owners.
 
 --------------------------------------------------------------------------------
 
-1. LICENCE:
+1. LICENSE:
 
 This program is free software: you can redistribute it and/or modify it under
 the terms of the GNU General Public License as published by the Free Software
 Foundation, either version 3 of the License, or (at your option) any later
 version.
 You should have received a copy of the GNU General Public License along with
-this program (see file LICENCE.txt). If not, see <http://www.gnu.org/licenses/>.
+this program (see file LICENSE.txt). If not, see <http://www.gnu.org/licenses/>.
 
 The use of this program is AT YOUR OWN RISK. The author is NOT LIABLE FOR ANY
 EFFECTS caused by usage, including UNEXPECTED VEHICLE BEHAVIOR or DAMAGES.
